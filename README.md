@@ -1,8 +1,17 @@
-# React + Vite
+![React](https://img.shields.io/badge/React-%2320232a?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Styled Components](https://img.shields.io/badge/Styled_Components-%23404d59?style=for-the-badge&logo=styled-components&logoColor=%23DB7093)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Projeto de portfólio 
 
-Currently, two official plugins are available:
+Aqui esta o link do deploy:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+[Visualize o projeto aqui](https://portifolio-carolayne-uriel.vercel.app/)
+
+## Tecnologias Utilizadas
+
+- React
+- Styled Components
+
+## Descrição
+
+Este projeto é um portfólio pessoal desenvolvido como parte do desafio final do curso de front-end na Vai na Web. Foi construído utilizando a lib React para a construção da interface, que usei rotas e a lib Styled Components para estilização.
