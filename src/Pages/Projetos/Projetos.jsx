@@ -1,5 +1,6 @@
 import React from "react";
 import * as S from "./StyleProjetos";
+
 import Outubro from "../../assets/outubro-rosa.png";
 import Jogo from "../../assets/quiz.png";
 import Dicionario from "../../assets/dicionario.png";
@@ -51,8 +52,8 @@ export default function Projetos(){
                     <div>
                         <img src={item.imag} alt={item.descricaoImg} />
                         <p>{item.descricao}</p>
-                        <a href={item.linkPojeto} target="_blank" rel="noopener noreferrer">Ver página</a>
-                        <a href={item.linkGithub} target="_blank" rel="noopener noreferrer"> Ver código no Github</a>
+                        <S.Links href={item.linkPojeto} target="_blank" rel="noopener noreferrer">Ver página</S.Links>
+                        <S.Links href={item.linkGithub} target="_blank" rel="noopener noreferrer"> Ver Github</S.Links>
 
                     </div>   
                     

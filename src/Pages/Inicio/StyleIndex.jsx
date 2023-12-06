@@ -36,13 +36,24 @@ export const Div = styled.div`
         display: flex;
         margin-top: 38px;
         justify-content: space-around;
+        gap: 55px;
+    }
+
+    a{
+        text-decoration: none;
+        color: #8a56bf;
+        font-weight: 700;
+
+        &:hover {
+            transform: scale(1.8);
+        }
     }
 
     @media (max-width: 900px){
 
         div{
             width: 50vw;
-            margin-left: 100px;
+            margin-left: 80px;
         }
     }
     
@@ -61,7 +72,9 @@ const blinking = keyframes`
 
 export const P = styled.p`
     font-size: 28px;
+    font-weight: 700;
     margin-top: 25px; 
+    color:  #7e21dbba;
     width: 24ch;
     border-right: 4px solid;
     white-space: nowrap;
@@ -99,6 +112,10 @@ export const imgPetalas = styled.img`
             transform: translateX(0px);
         }
     }
+
+    @media (max-width: 800px){
+        display: none;
+    }
 `
 
 export const imagTotoro = styled.img`
@@ -107,7 +124,7 @@ export const imagTotoro = styled.img`
     bottom: 250px;
     right: 280px;
 
-    @media (max-width: 900px){
+    @media (max-width: 950px){
         display: none;
     }
 `

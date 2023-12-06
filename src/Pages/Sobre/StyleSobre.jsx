@@ -35,7 +35,7 @@ export const SectionSobre = styled.section`
 `
 export const P = styled.section`
    width: 48vw;
-   color: #7d21db;
+   color: #7e21dbba;
    word-spacing: 9px;
    line-height: 36px;
    font-size: 24px;

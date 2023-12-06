@@ -21,16 +21,14 @@ export default function Sobre(){
             </figure>
             <section className="section-conteudo">
                 <S.P>
-                Desde abril, iniciei uma emocionante transição de carreira da confeitaria para o mundo da programação. 
-                O primeiro passo foi mergulhar em um curso livre, onde tive meu primeiro contato com os códigos 
-                e a cada linha de código, descobri uma nova paixão e percebi que a tecnologia era o caminho que eu realmente desejava seguir.
-
-                Motivado por esse entusiasmo recém-descoberto, decidi embarcar em uma jornada acadêmica e atualmente estou matriculado no curso de 
-                Ciência da Computação na faculdade. 
-                
-                Minha ambição é me tornar uma desenvolvedora fullstack, assim poder explora
-                tanto o lado do front-end quanto do back-end para então poder desenvolver projetos mais dinâmicos e acessíveis.
-                Estou ciente dos desafios que esse percurso pode apresentar, mas estou determinado a superá-los com dedicação, perseverança e paixão pelo que faço.
+                    Desde abril, dei inicio a mudança carreira da confeitaria para programação. 
+                    O primeiro passo foi mergulhar em um curso livre, 
+                    onde tive meu primeiro contato com os códigos e a cada linha de código, 
+                    descobri uma nova paixão e percebi que a tecnologia era o caminho que eu realmente desejava seguir. 
+                    Motivada por esse entusiasmo recém-descoberto, decidi embarcar em uma jornada acadêmica e estou atualmente
+                    matriculada no curso de Ciência da Computação. Desejo me tornar uma desenvolvedora full stack, 
+                    a fim de explorar tanto o lado front end quanto o back end, para então poder criar projetos mais dinâmicos e acessíveis. 
+                    Tenho consciência dos desafios que este caminho pode apresentar, mas estou disposto a superá-los com dedicação, perseverança e paixão pelo que faço.
                 </S.P>
 
                 <S.sectionImage>
